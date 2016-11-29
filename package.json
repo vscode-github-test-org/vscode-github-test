@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/KnisterPeter/vscode-github-test#readme",
   "devDependencies": {
+    "cz-customizable": "4.0.0",
     "typescript": "^2.0.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": "./.cz-config.js"
+    }
   }
 }
