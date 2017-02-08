@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/KnisterPeter/vscode-github-test#readme",
   "devDependencies": {
-    "typescript": "^2.0.9"
+    "typescript": "^2.1.6"
   }
 }
